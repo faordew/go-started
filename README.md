@@ -1,4 +1,4 @@
-https://heroku.com/deploy?template=https://github.com/xxx/yyy address   modifed
+https://heroku.com/deploy?template=https://github.com/xxx/yyy address  2 modifed
 
 # go-getting-started
 
